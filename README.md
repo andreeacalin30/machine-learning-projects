@@ -4,3 +4,5 @@
 
 
 The unsupervised machine learning methods that I have chosen are: k-Means and DBSCAN. To analyze the results easier, I have used PCA transformation for data. 
+
+The dataset has been preprocessed by me.
